@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm iNezXuS</h1>
 
 <p align="center">
-  <img src="./assets/github-avatar.png" width="180" alt="iNezXuS avatar" />
-</p>
-
-<p align="center">
   I build practical tools for Linux, Python automation, media workflows, and desktop utilities.
 </p>
 
