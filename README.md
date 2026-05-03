@@ -28,9 +28,9 @@
 
 ### Featured Project
 
-<p align="center">
+<p>
   <a href="https://github.com/iNezXuS/taskcave">
-    <img align="center" src="./profile/taskcave-pin.svg" alt="Task Cave pinned project card" />
+    <img src="./profile/taskcave-pin.svg" alt="Task Cave pinned project card" />
   </a>
 </p>
 
