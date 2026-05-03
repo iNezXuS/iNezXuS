@@ -1,8 +1,8 @@
 
       <svg
-        width="300"
+        width="360"
         height="115"
-        viewBox="0 0 300 115"
+        viewBox="0 0 360 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="299"
+          width="359"
           fill="#1a1b27"
           stroke-opacity="0"
         />
@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Most Used Languages</text>
+      >En &#199;ok Kullan&#305;lan Diller</text>
     </g>
       </g>
     
@@ -122,7 +122,7 @@
       
   
       <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+          <rect x="0" y="0" width="310" height="8" fill="white" rx="5"/>
         </mask>
         
         <rect
@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="248.67"
+          width="308.34"
           height="8"
           fill="#3572A5"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.67"
+          x="308.34"
           y="0"
-          width="11.33"
+          width="11.66"
           height="8"
           fill="#89e051"
         />
