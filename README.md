@@ -28,7 +28,7 @@
 
 ### Featured Project
 
-<p>
+<p align="center">
   <a href="https://github.com/iNezXuS/taskcave">
     <img align="center" src="./profile/taskcave-pin.svg" alt="Task Cave pinned project card" />
   </a>
@@ -36,9 +36,9 @@
 
 ### GitHub Snapshot
 
-<p>
-  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+<p align="center">
+  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
