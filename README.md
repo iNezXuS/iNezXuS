@@ -30,15 +30,15 @@
 
 <p>
   <a href="https://github.com/iNezXuS/taskcave">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iNezXuS&repo=taskcave&theme=tokyonight&hide_border=true" />
+    <img align="center" src="./profile/taskcave-pin.svg" alt="Task Cave pinned project card" />
   </a>
 </p>
 
 ### GitHub Snapshot
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iNezXuS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNezXuS&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
