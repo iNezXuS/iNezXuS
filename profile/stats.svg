@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">iNezXuS Hesab&#305;n&#305;n GitHub &#304;statistikleri, Rank: C</title>
-        <desc id="descId">Toplam Y&#305;ld&#305;z: 0, Toplam Commit  : 9, Toplam PR: 1, Toplam Hata: 1, Katk&#305; Verildi (ge&#231;en y&#305;l): 1</desc>
+        <desc id="descId">Toplam Y&#305;ld&#305;z: 0, Toplam Commit  : 0, Toplam PR: 1, Toplam Hata: 1, Katk&#305; Verildi (ge&#231;en y&#305;l): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 241.0051973694369;
+        stroke-dashoffset: 241.2656943231865;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >9</text>
+      >0</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
